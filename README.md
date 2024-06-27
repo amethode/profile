@@ -10,13 +10,18 @@
 
 
 ## Features:
+- Slick, modern UI
 - Hover effects
 - Dark & Light Mode (Default is Dark Mode)
 - Customizable typewriting effects
-- Badges
+- Badges & Badge info
 - Profile picture and banner
 - Included with Particles.JS
 - Beautiful Glassmorphism effect
+- Modern cursor
+- Responsive
+- Secret message :D
+- Other cool effects!
 
 ### You guys can fork or customize it to your preference. No need to credit me ❤️
 
