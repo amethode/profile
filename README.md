@@ -1,12 +1,13 @@
 # Glassmorphism Profile Card
 
 ## Preview
-![image](https://github.com/amethode/profile/assets/157130758/a137fb17-3bb4-4504-94b4-4754d1329082)
-![image](https://github.com/amethode/profile/assets/157130758/ff3dfb54-79f7-4f1b-82f3-a6fdc857e502)
+![image](https://github.com/amethode/profile/assets/157130758/b419b4d8-f971-4673-b0e4-a13409e0cc5e)
+![image](https://github.com/amethode/profile/assets/157130758/d28749bf-ac33-46b4-87b9-33873c921fe3)
 
-### On card hover
-![image](https://github.com/amethode/profile/assets/157130758/ed8a0fd0-3701-4acd-876c-18a69b0b52b8)
-![image](https://github.com/amethode/profile/assets/157130758/53d39ece-bb3b-4849-bdcd-5f8b20b33409)
+
+
+### Badge Info
+![image](https://github.com/amethode/profile/assets/157130758/30a27fa7-4c1a-4b6a-9857-90c3139ca2a3)
 
 
 ## Features:
